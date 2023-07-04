@@ -10,7 +10,7 @@ anyone else finds it useful.
 1. Clone the repository
 
 ```bash
-git clone https://
+git clone https://github.com/BerkayMehmetSert/net.MyHelperLibrary.git
 ```
 
 2. Install the dependencies
